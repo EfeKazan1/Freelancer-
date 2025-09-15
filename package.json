@@ -1,0 +1,19 @@
+{
+  "name": "12-freelancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass --watch --style=compressed scss/main.scss:css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.92.1"
+  },
+  "dependencies": {
+    "lightbox2": "^2.11.5",
+    "owl.carousel": "^2.3.4"
+  }
+}
